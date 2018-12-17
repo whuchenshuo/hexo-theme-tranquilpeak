@@ -73,10 +73,6 @@ sidebar:
             title: global.facebook
             url: https://facebook.com/
             icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
         linked_in:
             title: global.linkedin
             url: https://www.linkedin.com/profile/
